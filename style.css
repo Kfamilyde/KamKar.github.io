@@ -1,0 +1,76 @@
+h1 {
+    font: italic bold 1.2rem "Fira Sans", serif;
+    font-size: 20px;
+    color: rgb(244, 244, 247);
+    text-align: left;
+}
+section:nth-of-type(1) {
+    font: italic bold 1.2em "Fira Sans", sans-serif;
+    font-size: 15px;
+    color: yellow;
+    text-align: left; 
+    line-height: 0.0;
+}
+section:nth-of-type(2) {
+    font: italic bold 1.2em "Fira Sans", sans-serif;
+    font-size: 15px;
+    color: rgb(0, 255, 229);  
+    text-align: left;   
+}
+p:nth-of-type(2) {
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 15px;
+    color: wheat;  
+    text-align: left; 
+    line-height: 0.2; 
+}
+p:nth-of-type(4) {
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 15px;
+    color: wheat;  
+    text-align: left; 
+    line-height: 0.2; 
+}
+
+section:nth-of-type(3) {
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 15px;
+    color: rgb(241, 238, 232);  
+    text-align: left; 
+}
+section:nth-of-type(4) {
+    font: caption;
+    font-size: 20px;
+    color: whitesmoke;  
+    text-align: left;
+    line-height: 1.5;
+     }
+p:nth-of-type(7) {
+        font: italic small-caps bold 16px/2 cursive;
+        font-size: 15px;
+        color: rgb(231, 16, 16);  
+        text-align: left; 
+        line-height: 0.2; 
+    }
+p:nth-of-type(8) {
+        font: italic small-caps bold 16px/2 cursive;
+        font-size: 15px;
+        color: wheat;  
+        text-align: left; 
+        line-height: 0.2; 
+    }
+section:nth-of-type(5) {
+        font: caption;
+        font-size: 15px;
+        color: whitesmoke;  
+        text-align: left;
+        line-height: 0.1;
+         }
+    
+body{
+    background-image: url(./K.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20% 130%;
+    position:relative
+}
